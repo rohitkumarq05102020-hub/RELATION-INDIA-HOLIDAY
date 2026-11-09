@@ -1,0 +1,6 @@
+{
+  "name": "Relation India Holiday - Travel Portal & Real-Time Control Panel",
+  "description": "Full-featured travel booking website with real-time CMS control panel for managing destination content, packages, booking leads, and live visitor analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
